@@ -1,0 +1,344 @@
+{
+   "hotels": [{
+         "id": "6997650c-ef7f-4fcc-97a7-9fd71573b799",
+         "name": "Fab hotels",
+         "description": "Located in Salt Lake, Kolkata ...",
+         "long_description":{
+            "location":"Located in Salt Lake, Kolkata, Transit house is a great property with a colourful interior decor and a bright ambience",
+            "special_features":"The bedrooms at the accommodation have light colour painted walls with one of the walls painted in dark colour. Wooden furnishings and beautiful painting frames on the walls together make an attractive setting."
+         },
+         "distance_to_venue": 1,
+         "rating": 4.6,
+         "price_category": "medium",
+         "amenities": {
+            "hotel_amenities": [
+               "free_wifi",
+               "power_backup",
+               "restaurant/coffee_shop",
+               "laundry",
+               "free_internet",
+               "conference_rooms",
+               "cctv_surveillance",
+               "health_spa",
+               "smoking_room",
+               "free_parking"
+            ],
+            "room_amenities": [
+               "safe",
+               "telephone",
+               "shower",
+               "radio",
+               "hair_dryer",
+               "mini_bar",
+               "snacks",
+               "toiletries",
+               "mineral_water",
+               "work_desk",
+               "cribs",
+               "electric_kettle"
+            ]
+         },
+         "verified": true,
+         "images": [
+            "hotel1/MainView.jpg",
+            "hotel1/Room1.jpg",
+            "hotel1/Room2.jpg",
+            "hotel1/Room3.jpg",
+            "hotel1/Room4.jpg",
+            "hotel1/Room5.jpg",
+            "hotel1/Room6.jpg"
+         ],
+         "price": {
+            "Room1":2000,
+            "Room2":2000,
+            "Room3":3000,
+            "Room4":4000,
+            "Room5":5000,
+            "Room6":6000
+         }
+      },
+      {
+         "id": "7acaad74-c285-4891-bda8-cc0475bf805b",
+         "name": "Mariott",
+         "description": "Lorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, con",
+         "long_description":{
+            "location":"Located in Salt Lake, Kolkata, Transit house is a great property with a colourful interior decor and a bright ambience",
+            "special_features":"The bedrooms at the accommodation have light colour painted walls with one of the walls painted in dark colour. Wooden furnishings and beautiful painting frames on the walls together make an attractive setting."
+         },
+         "distance_to_venue": 1,
+         "rating": 4.6,
+         "price_category": "medium",
+         "amenities": {
+            "hotel_amenities": [
+               "free_wifi",
+               "power_backup",
+               "restaurant/coffee_shop",
+               "laundry",
+               "free_internet",
+               "conference_rooms",
+               "cctv_surveillance",
+               "health_spa",
+               "smoking_room",
+               "free_parking"
+            ],
+            "room_amenities": [
+               "safe",
+               "telephone",
+               "shower",
+               "radio",
+               "hair_dryer",
+               "mini_bar",
+               "snacks",
+               "toiletries",
+               "mineral_water",
+               "work_desk",
+               "cribs",
+               "electric_kettle"
+            ]
+         },
+         "verified": true,
+         "images": [
+            "hotel2/MainView.jpg",
+            "hotel2/Room1.jpg",
+            "hotel2/room2.jpg",
+            "hotel2/Room3.jpg",
+            "hotel2/Room4.jpg"
+         ],
+         "price": {
+            "Room1":2000,
+            "Room2":2000,
+            "Room3":3000,
+            "Room4":4000
+         }
+      },
+      {
+         "id": "9982a05c-6a3a-4b80-916a-91389a92f2c6",
+         "name": "Taj Palace",
+         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+         "long_description":{
+            "location":"Located in Salt Lake, Kolkata, Transit house is a great property with a colourful interior decor and a bright ambience",
+            "special_features":"The bedrooms at the accommodation have light colour painted walls with one of the walls painted in dark colour. Wooden furnishings and beautiful painting frames on the walls together make an attractive setting."
+         },
+         "distance_to_venue": 1,
+         "rating": 3,
+         "price_category": "high",
+         "amenities": {
+            "hotel_amenities": [
+               "free_parking",
+               "free_wifi"
+            ],
+            "room_amenities": [
+               "telephone",
+               "shower",
+               "radio",
+               "hair_dryer",
+               "mini_bar"
+            ]
+         },
+         "verified": true,
+         "images": [
+            "hotel3/MainView.jpg",
+            "hotel3/Room1.jpg",
+            "hotel3/Room2.jpg",
+            "hotel3/Room3.jpg",
+            "hotel3/Room4.jpg",
+            "hotel3/Room5.jpg"
+         ],
+         "price": {
+            "Room1":2000,
+            "Room2":3000,
+            "Room3":3000,
+            "Room4":4000,
+            "Room5":8000
+         }
+      },
+      {
+         "id": "66866d41-0846-4292-9945-a9bafea6ec6c",
+         "name": "Swagat Inn",
+         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+         "long_description":{
+            "location":"Located in Salt Lake, Kolkata, Transit house is a great property with a colourful interior decor and a bright ambience",
+            "special_features":"The bedrooms at the accommodation have light colour painted walls with one of the walls painted in dark colour. Wooden furnishings and beautiful painting frames on the walls together make an attractive setting."
+         },
+         "distance_to_venue": 2,
+         "rating": 2.8,
+         "price_category": "medium",
+         "amenities": {
+            "hotel_amenities": [
+               "free_parking",
+               "free_wifi"
+            ],
+            "room_amenities": [
+               "telephone",
+               "shower",
+               "radio",
+               "hair_dryer",
+               "mini_bar"
+            ]
+         },
+         "verified": false,
+         "images": [
+            "hotel4/MainView.jpg",
+            "hotel4/Room1.jpg",
+            "hotel4/Room2.jpg",
+            "hotel4/Room3.jpg",
+            "hotel4/Room4.jpg",
+            "hotel4/Room5.jpg",
+            "hotel4/Room6.jpg",
+            "hotel4/Room7.jpg"
+         ],
+         "price": {
+            "Room1":2000,
+            "Room2":3000,
+            "Room3":4000,
+            "Room4":4200,
+            "Room5":5000,
+            "Room6":6000,
+            "Room7":6500
+         }
+      },
+      {
+         "id": "0dfb4339-ef6a-4add-bb24-afe9dd7bc467",
+         "name": "Developer-friendly hotel",
+         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+         "long_description":{
+            "location":"Located in Salt Lake, Kolkata, Transit house is a great property with a colourful interior decor and a bright ambience",
+            "special_features":"The bedrooms at the accommodation have light colour painted walls with one of the walls painted in dark colour. Wooden furnishings and beautiful painting frames on the walls together make an attractive setting."
+         },
+         "distance_to_venue": 2,
+         "rating": 3,
+         "price_category": "medium",
+         "amenities": {
+            "hotel_amenities": [
+               "free_parking",
+               "free_wifi"
+            ],
+            "room_amenities": [
+               "telephone",
+               "shower",
+               "radio",
+               "hair_dryer",
+               "mini_bar"
+            ]
+         },
+         "verified": true,
+         "images": [
+            "hotel5/MainView.jpg",
+            "hotel5/Room1.jpg",
+            "hotel5/Room2.jpg",
+            "hotel5/Room3.jpg",
+            "hotel5/Room4.jpg",
+            "hotel5/Room5.jpg",
+            "hotel5/Room6.jpg"
+         ],
+         "price": {
+            "Room1":2000,
+            "Room2":2000,
+            "Room3":3000,
+            "Room4":4000,
+            "Room5":5000,
+            "Room6":6000
+         }
+      },
+      {
+         "id": "59b3e06a-a21b-47f6-98d2-9f007e6efadf",
+         "name": "Developer-friendly hotel",
+         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+         "long_description":{
+            "location":"Located in Salt Lake, Kolkata, Transit house is a great property with a colourful interior decor and a bright ambience",
+            "special_features":"The bedrooms at the accommodation have light colour painted walls with one of the walls painted in dark colour. Wooden furnishings and beautiful painting frames on the walls together make an attractive setting."
+         },
+         "distance_to_venue": 3,
+         "rating": 1,
+         "price_category": "low",
+         "amenities": {
+            "hotel_amenities": [
+               "free_parking",
+               "free_wifi"
+            ],
+            "room_amenities": [
+               "telephone",
+               "shower",
+               "radio",
+               "hair_dryer",
+               "mini_bar"
+            ]
+         },
+         "verified": false,
+         "images": [
+            "hotel6/MainView.jpg",
+            "hotel6/Room1.jpg",
+            "hotel6/Room2.jpg",
+            "hotel6/Room3.jpg",
+            "hotel6/Room4.jpg",
+            "hotel6/Room5.jpg",
+            "hotel6/Room6.jpg",
+            "hotel6/Room7.jpg"
+         ],
+         "price": {
+            "Room1":2000,
+            "Room2":2000,
+            "Room3":3000,
+            "Room4":4000,
+            "Room5":5000,
+            "Room6":5000,
+            "Room7":6000
+         }
+      },
+      {
+         "id": "7274a0f2-c31b-4138-ab7c-4beca22ae91e",
+         "name": "Premium hotel",
+         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+         "long_description":{
+            "location":"This property is a well-managed and modern hotel in Bandra a popular area in Mumbai teaming with amazing restaurants, cafes, and shops selling piping hot churros, etc.",
+            "special_features":"Maintained and looked after by a hospitable staff, the hotel provides modern bedrooms with ample storage space and comfortable living. The bright upholstery and cushioned headboards are delightful additions to the room."
+         },
+         "distance_to_venue": 1,
+         "rating": 4.8,
+         "price_category": "high",
+         "amenities": {
+            "hotel_amenities": [
+               "free_parking",
+               "free_wifi"
+            ],
+            "room_amenities": [
+               "telephone",
+               "shower",
+               "radio",
+               "hair_dryer",
+               "mini_bar"
+            ]
+         },
+         "verified": true,
+         "images": [
+            "hotel7/MainView.jpg",
+            "hotel7/Room1.jpg",
+            "hotel7/Room2.jpg",
+            "hotel7/Room3.jpg",
+            "hotel7/Room4.jpg",
+            "hotel7/Room5.jpg",
+            "hotel7/Room6.jpg",
+            "hotel7/Premium room.jpg",
+            "hotel7/Suite room.jpg"
+         ],
+         "price": {
+            "Room1":7000,
+            "Room2":7000,
+            "Room3":8000,
+            "Room4":14000,
+            "Room5":15000,
+            "Room6":30000,
+            "Room7":50000,
+            "Premium room": 75000,
+            "Suite room": 100000
+         }
+      }
+   ],
+   "room": {
+      "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db7",
+      "name": "Deluxe suite",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "max_occupancy": 4,
+      "price_in_usd": 78.90
+   }
+}
